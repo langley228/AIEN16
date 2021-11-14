@@ -28,7 +28,7 @@ docker image build /home/ubuntu/homework -t 自訂image名稱
 ```
 
 ---
-## 用 自訂image名稱 啟一個 container
+## 用 自訂image名稱 run 一個 container
 ```
 docker container run --name hw -p 9999:80 -d 自訂image名稱
 ```
