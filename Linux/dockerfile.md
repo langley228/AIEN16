@@ -1,3 +1,5 @@
+# nginx + dockerfile
+
 ## 上傳檔案至 Ubuntu
 目錄 : 
 /home/ubuntu/homework/src
