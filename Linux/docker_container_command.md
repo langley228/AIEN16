@@ -61,7 +61,7 @@ docker container ls -a
 
 ## 複製檔案到 container (cp)
 ```
-docker container cp host路徑或檔名 container路徑或檔名
+docker container cp host路徑或檔名 啟動中的container名稱:container路徑或檔名
 ```
 
 ---
