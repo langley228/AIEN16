@@ -10,7 +10,7 @@
 ## 下載 (pull)
 
 ```
-docker image pull image名稱:tag名稱
+docker image pull imge名稱:tag名稱
 ```
 
 ---
@@ -18,7 +18,7 @@ docker image pull image名稱:tag名稱
 ## 刪除 (rm)
 
 ```
-docker image rm image名稱:tag名稱
+docker image rm imge名稱:tag名稱
 ```
 
 ---
@@ -31,15 +31,15 @@ docker image ls
 ---
 
 ## 儲存 (save)
-檔名通常為 **image名稱.tag名稱**.tgz
+檔名通常為 **imge名稱.tag名稱**.tgz
 ```
-docker image save image名稱:tag名稱 | gzip > 檔名
+docker image save imge名稱:tag名稱 | gzip > 檔名
 ```
 
 ---
 
 ## 讀取 (load)
-檔名通常為 **image名稱.tag名稱**.tgz
+檔名通常為 **imge名稱.tag名稱**.tgz
 ```
 docker image load < 檔名
 ```
