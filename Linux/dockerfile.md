@@ -6,7 +6,7 @@
 ## 建立 dockerfile 檔案
 至 /home/ubuntu/homework 建立 dockerfile
 #### <font color=red>檔名固定為 dockerfile </font>
-![unsplash 圖片](imgs/add_dockerfile.jpg)
+![建立 dockerfile 檔案](imgs/add_dockerfile.jpg)
 
 以 nginx 這個 imge 為基底
 
@@ -32,3 +32,8 @@ docker image build /home/ubuntu/homework -t 自訂image名稱
 ```
 docker container run --name hw -p 9999:80 -d 自訂image名稱
 ```
+
+---
+
+## 執行結果
+![執行結果](imgs/dockerfile2.jpg)
