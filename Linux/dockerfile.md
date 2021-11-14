@@ -21,7 +21,7 @@ COPY src /usr/share/nginx/html
 ```
 
 ---
-## 用 build 一個 image 
+## build 一個 image 
 **<font color=red>路徑就好,不用 dockerfile 檔名</font>**
 ```
 docker image build /home/ubuntu/homework -t 自訂image名稱
