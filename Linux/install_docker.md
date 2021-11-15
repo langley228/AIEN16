@@ -1,7 +1,7 @@
 # docker 安裝
 
 ## 搜尋 docker docs 找安裝指令
-![install_docker](imgs/install_docker.JPG)
+![install_docker](imgs/install_docker1.jpg)
 ![install_docker](imgs/install_docker2.jpg)
 ![install_docker](imgs/install_docker3.jpg)
 ![install_docker](imgs/install_docker4.jpg)
