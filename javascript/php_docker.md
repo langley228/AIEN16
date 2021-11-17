@@ -49,7 +49,7 @@ linestickers.php
 
 ---
 ## 建立 dockerfile 檔案
-至 /home/ubuntu/homework 建立 dockerfile
+至 /home/ubuntu/php 建立 dockerfile
 #### <font color=red>檔名固定為 dockerfile </font>
 ![建立 dockerfile 檔案](imgs/php4.jpg)
 
